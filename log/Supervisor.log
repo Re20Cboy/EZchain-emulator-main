@@ -1,0 +1,33 @@
+Supervisor: 2023/09/18 22:06:56 committee_clpa_broker.go:242: received from shard 0 in epoch 0.
+Supervisor: 2023/09/18 22:07:01 committee_clpa_broker.go:242: received from shard 0 in epoch 0.
+Supervisor: 2023/09/18 22:07:06 committee_clpa_broker.go:242: received from shard 0 in epoch 0.
+Supervisor: 2023/09/18 22:07:11 committee_clpa_broker.go:242: received from shard 0 in epoch 0.
+Supervisor: 2023/09/18 22:07:12 supervisor.go:130: Supervisor: now sending cstop message to all nodes
+Supervisor: 2023/09/18 22:07:12 supervisor.go:136: Supervisor: now Closing
+Supervisor: 2023/09/18 22:07:12 supervisor.go:224: Closing...
+Supervisor: 2023/09/18 22:07:12 supervisor.go:226: Average_TPS
+Supervisor: 2023/09/18 22:07:12 supervisor.go:227: [] -0
+Supervisor: 2023/09/18 22:07:12 supervisor.go:226: Transaction_Confirm_Latency
+Supervisor: 2023/09/18 22:07:12 supervisor.go:227: [] NaN
+Supervisor: 2023/09/18 22:07:12 supervisor.go:226: CrossTransaction_ratio
+Supervisor: 2023/09/18 22:07:12 supervisor.go:227: [0 0] NaN
+Supervisor: 2023/09/18 22:07:12 supervisor.go:226: Tx_number
+Supervisor: 2023/09/18 22:07:12 supervisor.go:227: [] 0
+Supervisor: 2023/09/18 22:07:12 supervisor.go:231: Trying to input .csv
+Supervisor: 2023/09/18 22:07:12 supervisor.go:275: [] -0
+Supervisor: 2023/09/18 22:07:12 supervisor.go:275: [] NaN
+Supervisor: 2023/09/18 22:07:12 supervisor.go:275: [0 0] NaN
+Supervisor: 2023/09/18 22:07:12 supervisor.go:275: [] 0
+ervisor.go:227: [0 10000 0] 0
+Supervisor: 2023/09/13 18:17:17 supervisor.go:226: Tx_number
+Supervisor: 2023/09/13 18:17:17 supervisor.go:227: [10000] 10000
+Supervisor: 2023/09/13 18:17:17 supervisor.go:231: Trying to input .csv
+Supervisor: 2023/09/13 18:17:17 supervisor.go:275: [392.6980884906108] 392.6980884906108
+Supervisor: 2023/09/13 18:17:17 supervisor.go:275: [8.638649689999701] 8.638649689999701
+Supervisor: 2023/09/13 18:17:17 supervisor.go:275: [0 10000 0] 0
+Supervisor: 2023/09/13 18:17:17 supervisor.go:275: [10000] 10000
+Supervisor: 2023/09/13 17:41:26 committee_clpa_broker.go:230: Supervisor: all partition map message has been sent. 
+Supervisor: 2023/09/13 17:42:57 committee_clpa_broker.go:230: Supervisor: all partition map message has been sent. 
+Supervisor: 2023/09/13 17:44:27 committee_clpa_broker.go:230: Supervisor: all partition map message has been sent. 
+Supervisor: 2023/09/13 17:45:58 committee_clpa_broker.go:230: Supervisor: all partition map message has been sent. 
+Supervisor: 2023/09/13 17:47:29 committee_clpa_broker.go:230: Supervisor: all partition map message has been sent. 
